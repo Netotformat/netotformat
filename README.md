@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+</div>
 <!--
 **Netotformat/netotformat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
