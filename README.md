@@ -28,7 +28,7 @@ _Тестирую мобильное  приложение чуть больше
 
 
 ## Портфолио 
-- Тестирование сайта магазина
+# Тестирование сайта магазина
 - Тестовая документация
   -  [Чек-лист](https://docs.google.com/spreadsheets/d/1SY9fovp8xQfA2cLy_9Mnt6_DDtQ-_otOiOb3IX5fmw8/edit#gid=0)
   -  [Тест-сценарий для регресса](https://docs.google.com/spreadsheets/d/1Jgho-FfU52C0uGfb4Sh0ewInQGwQCWn0GeEKbdViq9o/edit#gid=0)
@@ -41,6 +41,10 @@ _Тестирую мобильное  приложение чуть больше
   - [Баг-репорты по проверке UI, Pixel Perfect](https://docs.google.com/spreadsheets/d/1-J_uAnT4UdcBWN3nQeHo4qm0VSmMVYKMhfVW3TavbQw/edit#gid=0)
 - Коллекция в Postman 
   -  Документы по запросу
+
+ # Тестирование мобильного приложения Правое Полушарие Интроверта 
+ - [Баг-репорты](https://docs.google.com/spreadsheets/d/1_tEjrFuK6dJ5_Fh0Qm4gRCLH0YC8E_WZKpCrDDaAhj4/edit#gid=0)
+
 
 
 
