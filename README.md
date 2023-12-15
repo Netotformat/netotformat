@@ -13,7 +13,7 @@ _Тестирую мобильное  приложение чуть больше
 
 ## Резюме
 
-[Нажми](https://docs.google.com/document/d/1_0rn126r197waTpmDOnlMat2epbUdkZRWJqCGbdY7CA/edit)
+[Нажми](https://docs.google.com/document/d/1LfbeIX0e0lnopzAtHSAX2DSMvmxBFlF1cAmdLZViK9s/edit)
 
 ## Навыки
 
@@ -44,6 +44,11 @@ _Тестирую мобильное  приложение чуть больше
 
  ### Тестирование мобильного приложения Правое Полушарие Интроверта 
  - [Баг-репорты](https://docs.google.com/spreadsheets/d/1_tEjrFuK6dJ5_Fh0Qm4gRCLH0YC8E_WZKpCrDDaAhj4/edit#gid=0)
+
+ ### Тестирование Signaturely (страница "документы")
+ 
+ - [Чек-лист страницы "документы" на англ](https://docs.google.com/spreadsheets/d/119CnC_PlTKOhm7FiKowK0irwmnnkxufGaW0FK4hHcXY/edit#gid=0)
+ - [Баг-репорты](https://docs.google.com/spreadsheets/d/1gl2jWpdV9a_7mrefCzSzzteeL-2AvT3fTTXSWGXBEoA/edit#gid=0)
 
 
 
